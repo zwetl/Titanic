@@ -4,3 +4,4 @@ Die Fahrt ist sehr schön
 Die Titanic weicht dem Eisberg aus
 Die Titanic kommt bei GitHub an
 Die Leute auf der Titanic grüßen GitHub
+Visual Studio grüßt
